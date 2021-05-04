@@ -1,2 +1,3 @@
 # ServerStudy
-Welcome to the page for learn sciences
+Welcome to the page for learn sciences.
+
